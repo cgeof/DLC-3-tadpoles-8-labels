@@ -1,0 +1,338 @@
+    # Project definitions (do not edit)
+Task: 2022-06-10-labo
+scorer: cg
+date: Sep27
+multianimalproject: true
+identity: false
+
+    # Project path (change when moving around)
+project_path: /content/drive/My Drive/2022-06-10-labo-cg-2022-09-27
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 203531993-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 203531993-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 203835056-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 203835056-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 204226648-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 204226648-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 204528560-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 204528560-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205000308-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205000308-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205302905-1.mp4
+  : crop: 0, 350, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205302905-2.mp4
+  : crop: 0, 380, 0, 380
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205605615-1.mp4
+  : crop: 0, 364, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 205605615-2.mp4
+  : crop: 0, 370, 0, 364
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200200374-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200200374-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200508377-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200508377-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200812001-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 200812001-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201116695-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201116695-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201427973-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201427973-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201754711-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 201754711-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 202204325-1.mp4
+  : crop: 0, 350, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 202204325-2.mp4
+  : crop: 0, 370, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 192613837-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 192613837-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 192954962-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 192954962-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193300224-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193300224-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193608341-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193608341-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193911195-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 193911195-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 194216618-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 194216618-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 194519155-1.mp4
+  : crop: 0, 340, 0, 370
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 194519155-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185259283-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185259283-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185638137-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185638137-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185940337-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 185940337-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190244833-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190244833-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190604235-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190604235-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190907476-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 190907476-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 191211487-1.mp4
+  : crop: 0, 340, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 191211487-2.mp4
+  : crop: 0, 374, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 181954552-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 181954552-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 182256416-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 182256416-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 182628526-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 182628526-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183011244-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183011244-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183324647-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183324647-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183628130-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183628130-2.mp4
+  : crop: 0, 360, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183945191-1.mp4
+  : crop: 0, 340, 0, 350
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 183945191-2.mp4
+  : crop: 0, 380, 0, 400
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 174315928-1.mp4
+  : crop: 0, 350, 0, 380
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 174315928-2.mp4
+  : crop: 0, 380, 0, 400
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 174631902-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 174631902-2.mp4
+  : crop: 0, 370, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175002411-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175002411-2.mp4
+  : crop: 0, 370, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175346678-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175346678-2.mp4
+  : crop: 0, 370, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175650510-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175650510-2.mp4
+  : crop: 0, 370, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175954662-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 175954662-2.mp4
+  : crop: 0, 370, 0, 360
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 180441745-1.mp4
+  : crop: 0, 380, 0, 390
+  ? C:\Users\cgeoffro\Desktop\DeepLabCut-2.2.2\conda-environments\2022-06-10-labo-cg-2022-09-27\videos\Basler
+    Aca800-510Um  23617456  20220610 180441745-2.mp4
+  : crop: 0, 370, 0, 360
+individuals:
+- tadpole1
+- tadpole2
+- tadpole3
+
+uniquebodyparts: []
+multianimalbodyparts:
+- Nose
+- R_Eye
+- L_eye
+- Stomach
+- T1
+- T2
+- T3
+- T4
+bodyparts: MULTI!
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - R_eye
+  - Nose
+- - Nose
+  - L_eye
+- - L_eye
+  - Stomach
+- - R_eye
+  - Stomach
+- - R_eye
+  - L_eye
+- - Nose
+  - Stomach
+- - Stomach
+  - T1
+- - T1
+  - T2
+- - T2
+  - T3
+- - T3
+  - T4
+skeleton_color: black
+pcutoff: 0.8
+dotsize: 4
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: dlcrnet_ms5
+default_augmenter: multi-animal-imgaug
+default_track_method: ellipse
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
+croppedtraining: false
